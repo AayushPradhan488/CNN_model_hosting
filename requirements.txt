@@ -1,11 +1,3 @@
-Flask @ file:///C:/b/abs_28dbmjidmh/croot/flask_1756453142071/work
-numpy @ file:///C:/b/abs_0123vcxhf8/croot/numpy_and_numpy_base_1725470331966/work/dist/numpy-2.0.1-cp312-cp312-win_amd64.whl#sha256=e3e9d7fcaa32e9aa86aa46a7191a47fc4c4b35942462bbbedd17c45ef934dccd
-opencv-python==4.10.0
-opencv-python-headless==4.10.0
-pillow @ file:///C:/miniconda3/conda-bld/pillow_1762528255579/work
-setuptools==80.9.0
-streamlit @ file:///C:/Users/task_177028916969283/croot/streamlit-split_1770289356430/work/streamlit
+Flask==3.1.2
+numpy==2.4.2
 torch==2.9.1
-torchvision==0.24.1
-watchdog @ file:///C:/miniconda3/conda-bld/watchdog_1759775796890/work
-wheel==0.45.1
